@@ -1,5 +1,9 @@
 Death
+<<<<<<< HEAD
 Autopsy -Severed survival
+=======
+Autopsy -Mental funeral
+>>>>>>> 205ac55267e4ed97a98d86646e769fb1391288bf
 Morbid Angel
 Deicide
 Obituary
