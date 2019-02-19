@@ -1,2 +1,6 @@
 Bark at the moon
+<<<<<<< HEAD
 Ozzmosis -best album
+=======
+Ozzmosis -worst album
+>>>>>>> 68bde68e9aa45cf1eebf0ba4da84ae2796b87874
